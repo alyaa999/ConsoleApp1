@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlFile", "SqlFile\SqlFile.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1", "Day1\Day1.csproj", "{1EEEB8E1-BF47-4856-BBB5-B9D9182FDBDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dendency Injection", "Dendency Injection\Dendency Injection.csproj", "{9859FE55-569A-4C5A-970A-0BA05A7111D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DendencyInjection", "DendencyInjection\DendencyInjection.csproj", "{4680D403-F50C-4B9F-89DF-797E502DFA69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1EEEB8E1-BF47-4856-BBB5-B9D9182FDBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EEEB8E1-BF47-4856-BBB5-B9D9182FDBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EEEB8E1-BF47-4856-BBB5-B9D9182FDBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9859FE55-569A-4C5A-970A-0BA05A7111D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9859FE55-569A-4C5A-970A-0BA05A7111D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9859FE55-569A-4C5A-970A-0BA05A7111D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9859FE55-569A-4C5A-970A-0BA05A7111D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4680D403-F50C-4B9F-89DF-797E502DFA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4680D403-F50C-4B9F-89DF-797E502DFA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4680D403-F50C-4B9F-89DF-797E502DFA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4680D403-F50C-4B9F-89DF-797E502DFA69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
